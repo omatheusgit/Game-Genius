@@ -1,7 +1,7 @@
 # Game-Genius
 Projeto onde recrio o jogo genius da estrela, foi desenvolvido na linguagem C# utilizando o Visual Studio; Desenvolvido em 2016 no curso técnico.
 
-O projeto foi criado uma aplicação pelo visual studio, utilizando o C#
+Para o projeto foi criado em uma aplicação no visual studio, utilizando o C#
 O projeto é o jogo Genius da estrela
 Foi desenvolvido com o intuito de recriar a lógica do jogo para uma prova
 
